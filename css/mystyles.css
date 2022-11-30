@@ -1,0 +1,13 @@
+.myfont{
+    font-family: 'Courier New', Courier, monospace;
+}
+.mysubfont{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(195, 160, 116) !important;
+}
+.myimg{
+    width: 75% !important;
+}
+.myitalics{
+    font-style: italic;
+}
